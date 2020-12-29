@@ -1,0 +1,18 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "ams#12345",
+    "database": "amsdb",
+    "entities": [
+      "./src/models/*.ts"
+    ],
+    "migrations": [
+      "./src/db/migrations/*.ts"
+    ],
+    "cli": {
+      "migrationsDir": "./src/db/migrations/"
+    }
+  }
+  
