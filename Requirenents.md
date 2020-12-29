@@ -1,4 +1,4 @@
-# Plano de Desenvolvimento de Software
+# Software
 **1. Visão do Projeto**
 - 1.1 Propósito do Projeto, Escopo e Objetivos
 - Desenvolvimento de um sistema de controle de custos que auxilie uma empresa a controlar
